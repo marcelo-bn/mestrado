@@ -15,5 +15,5 @@ from keras.models import Sequential
 '''' Own modules imports  '''
 from predict.tcn_predict import TCNpredict
 from models.tcn_model import TCNmodel
-from format.tcn_format import TCNformat
+from format.format import Format
 
